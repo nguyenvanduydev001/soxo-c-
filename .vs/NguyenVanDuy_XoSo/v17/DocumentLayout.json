@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\nguyenvanduy_xoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|solutionrelative:nguyenvanduy_xoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|d:\\university\\nam4_1\\lap_trinh_windowns\\nguyenvanduy_xoso\\nguyenvanduy_xoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|solutionrelative:nguyenvanduy_xoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|d:\\university\\nam4_1\\lap_trinh_windowns\\nguyenvanduy_xoso\\nguyenvanduy_xoso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A093E5-CC74-4A65-82A6-0EB95F3E935B}|NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo.csproj|solutionrelative:nguyenvanduy_xoso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NguyenVanDuy_XoSo\\Form1.Designer.cs",
+              "ToolTip": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.Designer.cs",
+              "RelativeToolTip": "NguyenVanDuy_XoSo\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:42:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenVanDuy_XoSo\\Form1.cs",
+              "ToolTip": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.cs",
+              "RelativeToolTip": "NguyenVanDuy_XoSo\\Form1.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAqwP4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:29.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenVanDuy_XoSo\\Form1.cs",
+              "ToolTip": "D:\\University\\Nam4_1\\Lap_trinh_windowns\\NguyenVanDuy_XoSo\\NguyenVanDuy_XoSo\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenVanDuy_XoSo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:33:21.509Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
